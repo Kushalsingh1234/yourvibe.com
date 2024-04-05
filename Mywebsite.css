@@ -1,0 +1,369 @@
+li {
+    display: inline;
+    padding: 25px;
+
+    color: rgb(253, 253, 253);
+
+
+}
+
+ul {
+    margin-left: 60px;
+    font-size: 30px;
+    font-family: 'Sacramento', cursive;
+    font-weight: 5000;
+
+
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(151, 56, 56);
+    font-weight: bolder;
+
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.left img {
+    width: 176px;
+
+
+
+}
+
+nav {
+    display: block;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding-left: 48px;
+
+
+}
+
+a:hover {
+    border: 4px solid rgb(151, 56, 56);
+    border-radius: 20px;
+    background-color: rgb(151, 56, 56);
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.left {
+    display: inline-block;
+    /* border: 2px solid red; */
+    position: absolute;
+    left: 30px;
+    top: 14px;
+}
+
+
+.left img {
+    width: 100px;
+    height: 90px;
+
+}
+
+
+
+
+
+
+
+header {
+    height: 115px;
+    /* border: 3px solid black; */
+    background-color: rgb(255, 255, 255);
+}
+
+#by {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    color: rgb(151, 56, 56);
+    transition: all 0.7s ease-in-out;
+}
+
+#bg1 {
+    height: 504px;
+    width: 770px;
+    margin-left: 248px;
+    margin-top: 28px;
+    
+}
+
+#PARA1 {
+    font-family: 'Indie Flower', cursive;
+    padding: 40px 40px 40px;
+    color: rgb(173 154 55);
+    font-size: 22px;
+    font-style: italic;
+}
+
+.mainp {
+    display: inline-block;
+    border: 3px solid rgb(151, 56, 56);
+    border-radius: 35px;
+    background-color: rgb(151, 56, 56);
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 30px;
+
+}
+
+
+.extra {
+    display: inline-block;
+    border: 6px solid rgb(151, 56, 56);
+    height: 850px;
+    width: 1275px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 26px;
+}
+
+#bookheading {
+    text-align: center;
+    font-size: 31px;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(173 154 55);
+    font-weight: bold;
+    margin-top: 43px;
+
+
+}
+
+#hidden {
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 35px;
+    transition: all 0.5s ease-in-out;
+}
+
+#mark {
+    height: 300px;
+    margin-left: 59px;
+    margin-top: 35px;
+    transition: all 0.5s ease-in-out;
+}
+
+#inspiration {
+    height: 300px;
+    margin-left: 64px;
+    margin-top: 35px;
+    transition: all 0.5s ease-in-out;
+}
+
+#moonlight {
+    height: 300px;
+    margin-top: 35px;
+    margin-left: 75px;
+    transition: all 0.5s ease-in-out;
+}
+
+#bookslink {
+    border: 4px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(151, 56, 56);
+}
+
+.imagesofbooks {
+    margin-left: 112px;
+}
+
+.paraofbooks {
+    text-align: left;
+    font-size: 20px;
+    color: rgb(173 154 55);
+    font-family: 'Indie Flower', cursive;
+    margin-top: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.extra2 {
+    display: inline-block;
+    border: 6px solid rgb(151, 56, 56);
+    height: 647px;
+    width: 1275px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    border-radius: 26px;
+}
+
+#podcastheading {
+    text-align: center;
+    font-size: 31px;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(173 154 55);
+    font-weight: bold;
+    margin-top: 43px;
+}
+
+#imageofpodcast {
+    margin-left: 112px;
+}
+
+#podcastphoto {
+    height: 300px;
+    margin-left: 487px;
+    margin-top: 55px;
+    transition: all 0.5s ease-in-out;
+}
+
+.paraofpodcast {
+    text-align: left;
+    font-size: 20px;
+    color: rgb(173 154 55);
+    font-family: 'Indie Flower', cursive;
+    margin-top: 30px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#podcastlink {
+    border: 4px solid rgb(255, 255, 255);
+    border-radius: 25px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(151, 56, 56);
+}
+
+.zindagiheading {
+    border: 6px solid #17507c;
+    display: inline-block;
+    border-radius: 40px;
+    margin-top: 100px;
+    height: 2355px;
+    width: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    /* padding-bottom: 10px; */
+    /* padding-left: 30px;
+    padding-right: 30px; */
+    background-color: #e8f7f9;
+
+
+}
+
+#headingtextpodcast {
+    font-size: 40px;
+    font-family: 'Molle', cursive;
+    color: rgb(29 86 133);
+    margin-left: 525px;
+
+    font-weight: bolder;
+    margin-top: 25px;
+    /* text-align: center; */
+
+
+}
+
+.audio {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+/* .mainb{
+    border: 3px solid black;
+    height: 1206px;
+    width: 1326px;
+    margin-top: -62px;
+    margin-left: 0px;
+    margin-right: 20px;
+    background-color: #cef9ff;
+    
+} */
+/* .audio1 { */
+/* border: 3px solid black;
+    height: 206px;
+    width: 1225px;
+    margin-top: 45px;
+    margin-left: 30px;
+    margin-right: 20px;
+} */
+.audiofile {
+    height: 200px;
+}
+
+iframe {
+    height: 203px;
+    width: 40px;
+    margin-left: 24px;
+    margin-top: 3px;
+    margin-right: 40px;
+}
+
+.paraofaudio {
+    /* border: 3px solid black; */
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+    margin-left: 23px;
+}
+
+.EPISODEHEADING {
+    font-size: 25px;
+}
+
+.description {
+    font-size: 20px;
+}
+
+#photo {
+    height: 233px;
+    width: 251px;
+    margin-top: 53px;
+    margin-left: 540px;
+    margin-right: 10px;
+}
+
+#para2 {
+    height: 178px;
+}
+
+#audio2 {
+    margin-left: 3px;
+}
+
+#gh {
+    margin-left: -7px;
+    width: 101%;
+}
+
+#para3 {
+    height: 182px;
+    width: 1260px;
+    margin-top: 41px;
+    margin-left: -5px;
+}
+
+#hh {
+    margin-left: -6px;
+}
+
+#para4 {
+    height: 182px;
+    width: 1260px;
+    margin-top: 264px;
+    margin-left: -5px
+}
+
+#kk {
+    margin-top: 4px;
+    margin-left: -3px;
+}
+#by:hover{transform: scale(1.3);}
+#hidden:hover{transform: scale(1.5);}
+#mark:hover{transform: scale(1.5);}
+#inspiration:hover{transform: scale(1.5);}
+#moonlight:hover{transform: scale(1.5);}
+#podcastphoto:hover{transform: scale(1.3);}
